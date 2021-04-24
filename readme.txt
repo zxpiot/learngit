@@ -10,4 +10,4 @@ git checkout dev
 
 fast forward off
 
-solve bug
+fix bug
