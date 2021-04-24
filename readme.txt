@@ -9,3 +9,5 @@ git branch dev
 git checkout dev
 
 fast forward off
+
+solve bug2 
