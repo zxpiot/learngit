@@ -8,4 +8,4 @@ git checkout -b dev ==
 git branch dev
 git checkout dev
 
-fast forward
+fast forward off
