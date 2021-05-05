@@ -1,7 +1,7 @@
 Hello World!!!
-music
-basketball
-guitar
+Music
+Basketball
+Guitar
 
 Creating a new branch is quick and simple.
 git checkout -b dev ==
